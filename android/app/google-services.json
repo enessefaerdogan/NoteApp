@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "590164116515",
+    "project_id": "noteapp-enessefa",
+    "storage_bucket": "noteapp-enessefa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590164116515:android:0f6f1408649fec02c5dd96",
+        "android_client_info": {
+          "package_name": "com.example.note_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590164116515-2l5v726ogir2n84skcto1tbrqjqpkfod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAQwfbxft04j4yiK9RlkH4xl0GQSqTDLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590164116515-2l5v726ogir2n84skcto1tbrqjqpkfod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
